@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car" fuel="petrol">
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <year>2010</year>
+        <horsePower>300</horsePower>
+</vehicle>
+<vehicle type="motorcycle" fuel="petrol" >
+    <brand>KTM</brand>
+    <model>DUKE</model>
+    <year>2020</year>
+    <color>Hard to say</color>
+</vehicle>
+<vehicle type="bicycle" gear="yes">
+    <brand>Kands</brand>
+    <model>COMPER</model>
+    <year>2022</year>
+    <color>Grey</color>
+</vehicle>
+</transport>
